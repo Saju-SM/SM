@@ -225,7 +225,7 @@ def bot():
 def menu():
 	os.system('clear')
 	banner()
-	os.system("xdg-open https://www.facebook.com/owner.termux")        
+	os.system("xdg-open https://www.facebook.com/Md.Almutasimsaju.Simple.man143")        
 	print(f'\033[1;37m()==============================================()    ')
 	print('\t\x1b[1;97m[\x1b[1;92m M A I N - M E N U  \x1b[1;97m]')
 	print(f'\033[1;37m()==============================================()    ')
